@@ -1,5 +1,10 @@
-# Casper
+# Casper NX
+A theme mod from [Ghost](http://github.com/tryghost/ghost) default theme by Nicholas Xu.
 
+## Google font.
+Replace google font url with 360 cloud service.
+
+## Casper
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
